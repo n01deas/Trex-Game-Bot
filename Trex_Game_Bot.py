@@ -42,7 +42,7 @@ def ImageGrab():
 
 
 
-def if __name__ == "__main__":
+def main():
     restartGame()
     
     # Wenn ein Gegenstand vor dem Spieler erkannt wurde, wird die Methode pressSpace() aufgerufen

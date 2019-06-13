@@ -40,8 +40,6 @@ def ImageGrab():
     print(img.sum(  ))
     return img.sum()
 
-
-
 def main():
     restartGame()
     
